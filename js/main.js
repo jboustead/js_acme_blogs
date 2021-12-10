@@ -1,4 +1,4 @@
-// Final Project Functions
+// Final Project Functions due on 12/13/21 by midnight
 
 //Function #1
 function createElemWithText(elemType = "p", elemText = "", className) {
